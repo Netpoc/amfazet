@@ -51,7 +51,7 @@
 :root {
     --thm-body-font: 'Rubik', sans-serif;
     --thm-heading-font: 'Rajdhani', sans-serif;
-    --thm-primary: #F68B21;
+    --thm-primary: #0B763C;
     --thm-primary-rgb: 246, 139, 33;
     --thm-secondary: #1037B6;
     --thm-secondary-rgb: 16, 55, 182;
@@ -3304,7 +3304,7 @@ label {
 .project-details__info-box-inner .list-info-box>ul>li .reting-box>ul>li .icon span {
     position: relative;
     display: inline-block;
-    color: #f68b21;
+    color: #0B763C;
     font-size: 14px;
 }
 
